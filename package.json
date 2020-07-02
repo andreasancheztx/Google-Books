@@ -1,0 +1,22 @@
+{
+  "name": "google-books",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreasancheztx/Google-Books.git"
+  },
+  "author": "Andrea Sanchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreasancheztx/Google-Books/issues"
+  },
+  "homepage": "https://github.com/andreasancheztx/Google-Books#readme",
+  "dependencies": {
+    "node.js": "0.0.1-security"
+  }
+}
